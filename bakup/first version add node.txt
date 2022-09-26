@@ -1,0 +1,35 @@
+
+
+	obj.addStation(new Station("Helwan"));
+        obj.addStation(new Station("Ain Helwan"));
+        obj.addStation(new Station("Helwan University"));
+        obj.addStation(new Station("Wadi Hof"));
+        obj.addStation(new Station("Hadayek Helwan"));
+        obj.addStation(new Station("El-Maasara"));
+        obj.addStation(new Station("Tora El-Asmant"));
+        obj.addStation(new Station("Sakanat El-Maadi"));
+        obj.addStation(new Station("Maddi"));
+        obj.addStation(new Station("Hadayek El-Maadi"));
+        obj.addStation(new Station("Dar El-Salam"));
+        obj.addStation(new Station("El-Zahraa"));
+        obj.addStation(new Station("Mar Girgis"));
+        obj.addStation(new Station("El-Malek El-Saleh"));
+        obj.addStation(new Station("Al-Sayeda Zeinab"));
+        obj.addStation(new Station("Saad Zaghloul"));
+        obj.addStation(new Station("Sadat"));
+        obj.addStation(new Station("Nasser"));
+        obj.addStation(new Station("Orabi"));
+        obj.addStation(new Station("Al-Shohadda"));
+        obj.addStation(new Station("Ghamra"));
+        obj.addStation(new Station("El-Demerdash"));
+        obj.addStation(new Station("Manshiet El-Sadr"));
+        obj.addStation(new Station("Kobri El-Qobba"));
+        obj.addStation(new Station("Hammamat El-Qobba"));
+        obj.addStation(new Station("Saray El-Qobba"));
+        obj.addStation(new Station("Hadayeq El-Zaitoun"));
+        obj.addStation(new Station("Helmeyet El-Zaitoun"));
+        obj.addStation(new Station("El-Matareyya"));
+        obj.addStation(new Station("Ain Shams"));
+        obj.addStation(new Station("Ezbet El-Nakhl"));
+        obj.addStation(new Station("El-Marg"));
+        obj.addStation(new Station("New El-Marg"));

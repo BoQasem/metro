@@ -1,0 +1,38 @@
+id,name,line
+1,Helwan,1
+2,Ain Helwan,1
+3,Helwan University,1
+4,Wadi Hof,1
+5,Hadayek Helwan,1
+6,El-Maasara,1
+7,Tora El-Asmant,1
+8,Kozzika,1
+9,Tora El-Balad,1
+10,Sakanat El-Maadi,1
+11,Maddi,1
+12,Hadayek El-Maadi,1
+13,Dar El-Salam,1
+14,El-Zahraa,1
+15,Mar Girgis,1
+16,El-Malek El-Saleh,1
+17,Al-Sayeda Zeinab,1
+18,Saad Zaghloul,1
+19,Sadat,1
+20,Nasser,1
+21,Orabi,1
+22,Al-Shohadaa,1
+23,Ghamra,1
+24,El-Demerdash,1
+25,Manshiet El-Sadr,1
+26,Kobri El-Qobba,1
+27,Hammamat El-Qobba,1
+28,Saray El-Qobba,1
+29,Hadayeq El-Zaitoun,1
+30,Helmeyet El-Zaitoun,1
+31,El-Matareyya,1
+32,Ain Shams,1
+33,Ezbet El-Nakhl,1
+34,El-Marg,1
+35,New El-Marg,1
+
+
